@@ -1,3 +1,3 @@
 # cuda-cpp
 
-Trying out cuda with c++.
+CUDA examples from the book Programming Massively Parallel Processors
