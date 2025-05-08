@@ -94,7 +94,8 @@ int main() {
 
     // verify result
     printf("Vector addition results:\n");
-    for(int i = 0; i < 10; i++) {  // Print first 10 elements
+    // Print first 10 elements
+    for(int i = 0; i < 10; i++) {  
         printf("%f + %f = %f\n", A_h[i], B_h[i], C_h[i]);
     }
 
